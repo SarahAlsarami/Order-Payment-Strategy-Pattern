@@ -1,0 +1,14 @@
+/Users/sarahalsarami/PaymentSystem/bin/Debug/net8.0/PaymentSystem
+/Users/sarahalsarami/PaymentSystem/bin/Debug/net8.0/PaymentSystem.deps.json
+/Users/sarahalsarami/PaymentSystem/bin/Debug/net8.0/PaymentSystem.runtimeconfig.json
+/Users/sarahalsarami/PaymentSystem/bin/Debug/net8.0/PaymentSystem.dll
+/Users/sarahalsarami/PaymentSystem/bin/Debug/net8.0/PaymentSystem.pdb
+/Users/sarahalsarami/PaymentSystem/obj/Debug/net8.0/PaymentSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarahalsarami/PaymentSystem/obj/Debug/net8.0/PaymentSystem.AssemblyInfoInputs.cache
+/Users/sarahalsarami/PaymentSystem/obj/Debug/net8.0/PaymentSystem.AssemblyInfo.cs
+/Users/sarahalsarami/PaymentSystem/obj/Debug/net8.0/PaymentSystem.csproj.CoreCompileInputs.cache
+/Users/sarahalsarami/PaymentSystem/obj/Debug/net8.0/PaymentSystem.dll
+/Users/sarahalsarami/PaymentSystem/obj/Debug/net8.0/refint/PaymentSystem.dll
+/Users/sarahalsarami/PaymentSystem/obj/Debug/net8.0/PaymentSystem.pdb
+/Users/sarahalsarami/PaymentSystem/obj/Debug/net8.0/PaymentSystem.genruntimeconfig.cache
+/Users/sarahalsarami/PaymentSystem/obj/Debug/net8.0/ref/PaymentSystem.dll
